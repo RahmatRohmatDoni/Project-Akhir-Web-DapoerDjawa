@@ -23,7 +23,7 @@ Website ini dirancang dan dikembangkan oleh **90's Dev Studio**, yang beranggota
 
 ## 📖 Tentang Projek
 
-**DapoerDjawa** adalah antarmuka web e-commerce yang dirancang untuk memberikan pengalaman berbelanja kue dan kuliner tradisional yang mulus dan modern. Projek ini dibangun menggunakan ekosistem terbaru **Next.js**, menghadirkan UI yang interaktif dan dioptimalkan secara khusus untuk pengalaman Desktop yang maksimal.
+**DapoerDjawa** adalah platform antarmuka web e-commerce yang dirancang untuk memberikan pengalaman berbelanja kue dan kuliner tradisional yang mulus dan modern. Projek ini dibangun menggunakan ekosistem terbaru **Next.js**, menghadirkan UI yang interaktif dan dioptimalkan secara khusus untuk pengalaman Desktop yang maksimal.
 
 Projek ini diinisiasi menggunakan `create-next-app` dan berfokus pada pengalaman pengguna (UX) tingkat tinggi, mulai dari penjelajahan produk, manajemen keranjang belanja, hingga ringkasan pesanan.
 
