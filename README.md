@@ -17,7 +17,7 @@
 
 Website ini dirancang dan dikembangkan oleh **Team 420**, yang beranggotakan:
 1. **Rahmat RohmatDoni** (NIM: 2413006)
-2. **Satria Ryudha Pradan** (NIM: 2413007)
+2. **Satria Ryudha Pradana** (NIM: 2413007)
 
 ---
 
